@@ -1,4 +1,4 @@
-#Weather project
+# Weather project
 
 this project is developed by react and the main idea is to get the current and forecast information of the weather and show them ofcourse it is responsive :)
 
